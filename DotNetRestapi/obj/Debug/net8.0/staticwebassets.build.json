@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xqMgE66cxrBSv4wtToZ0MUXEK08F/LaKeqcX6WU85qU=",
+  "Source": "DotNetRestapi",
+  "BasePath": "_content/DotNetRestapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
